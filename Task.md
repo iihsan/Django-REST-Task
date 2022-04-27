@@ -40,4 +40,4 @@ After completing your task, you will be required to submit it:
 ">contact@iihsan.com</a>
 + or alternatively, you can directly share your task to given email address in a zip file
 
-<h3>Sample Output</h3> <a href="https://github.com/iihsan/Django-REST-Task/blob/main/sample.json">sample.json</a>
+<h3>Sample Output <a href="https://github.com/iihsan/Django-REST-Task/blob/main/sample.json">sample.json</a></h3>
