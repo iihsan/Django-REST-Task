@@ -17,16 +17,19 @@ Students:
 
 Now, serialize them to create the required output. The sample output is attached in <a href="https://github.com/iihsan/Django-REST-Task/blob/main/sample.json">sample.json</a> file.
 
-Here are the some steps:
-Create these models in models.py (you are free to add more columns if you want)
-Create serializers in serializers.py (you are free to use any serializer)
-Create their API endpoints in views.py (you are free to use any viewset)
-Route these endpoints in urls.py
+<h3>Here are the some steps:</h3>
+<li>
+  <ul>Create these models in models.py (you are free to add more columns if you want)</ul>
+  <ul>Create serializers in serializers.py (you are free to use any serializer)</ul>
+  <ul>Create their API endpoints in views.py (you are free to use any viewset)</ul>
+  <ul>Route these endpoints in urls.py</ul>
+</li>
 
-Hint: Nested serializer is required to create the sample output format.
+<h3 style="color:green">Hint: Nested serializer is required to create the sample output format.<h3>
 
 You have 24 hours to submit this task or our HR will communicate you accordingly.
 
 After completing your task, you will be required to submit it:
 + you can upload your task to public git repository and share your link at the given email address <a href="mailto:contact@iihsan.com
 ">contact@iihsan.com</a>
++ or alternatively, you can directly share your task to given email address in a zip file
