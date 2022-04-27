@@ -13,4 +13,4 @@ Students:
   + enrolled_courses : ManyToManyField(Courses)
 
 
-Now, serialize them to create the required output. The sample output is attached in sample.json file.
+Now, serialize them to create the required output. The sample output is attached in <a href="https://github.com/iihsan/Django-REST-Task/blob/main/sample.json">sample.json</a> file.
