@@ -28,4 +28,4 @@ You have 24 hours to submit this task or our HR will communicate you accordingly
 
 After completing your task, you will be required to submit it:
 + you can upload your task to public git repository and share your link at the given email address <a href="mailto:contact@iihsan.com
-">Muhammad Ihsan</a>
+">Muhammad Ihsan: contact@iihsan.com</a>
