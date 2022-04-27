@@ -39,3 +39,5 @@ After completing your task, you will be required to submit it:
 + you can upload your task to public git repository and share your link at the given email address <a href="mailto:contact@iihsan.com
 ">contact@iihsan.com</a>
 + or alternatively, you can directly share your task to given email address in a zip file
+
+<h3>Sample Output</h3> <a href="https://github.com/iihsan/Django-REST-Task/blob/main/sample.json">sample.json</a>
