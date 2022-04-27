@@ -3,7 +3,7 @@ Student REST API using Django REST Framework
 
 You are required to create a REST API to manage the records of Students and their enrolled courses.
 
-Here's what your models.py would look like:
+<h4>Here's what your models.py would look like:</h4>
 
 Courses:
   + course_name : CharField
