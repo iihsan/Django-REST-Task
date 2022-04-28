@@ -33,11 +33,11 @@ Hint: Nested serializer is required to create the sample output format.
 <br>
 
 <h3 style="color:green">Submission Criteria</h3>
-You have 24 hours to submit this task or our HR will communicate you accordingly.
+You have 48 hours to submit this task or our HR will communicate you accordingly.
 
 After completing your task, you will be required to submit it:
-+ you can upload your task to public git repository and share your link at the given email address <a href="mailto:contact@iihsan.com
-">contact@iihsan.com</a>
++ you can upload your task to public git repository and share your link at the given email address <a href="mailto:iihsanofficial@gmail.com
+">iihsanofficial@gmail.com</a>
 + or alternatively, you can directly share your task to given email address in a zip file
 
 <h3>Sample Output <a href="https://github.com/iihsan/Django-REST-Task/blob/main/sample.json">sample.json</a></h3>
